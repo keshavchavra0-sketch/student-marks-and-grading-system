@@ -3,12 +3,12 @@
 A simple Python-based console application to manage student marks and academic results.
 
 Student Details 
-• Name:                  Keshav Chavra
-• Registration No.:      26MIM10251
-• Course:                Python Essential
-• Program:               Integrated M.Tech – Artificial Intelligence
-• Year:                  1st Year
-• College:               VIT Bhopal University
+• Name: Keshav Chavra
+• Registration No.  : 26MIM10251
+• Course : Python Essential
+• Program : Integrated M.Tech – Artificial Intelligence
+• Year: 1st Year
+• College: VIT Bhopal University
 
 ## Overview of the Project
 The Student Marks & Grading System is a simple Python-based console application developed to manage student marks and academic results.
@@ -71,6 +71,9 @@ The program was checked using the following operations:
 • Checking marks validation 
 • Viewing the class summary 
 • Exiting the program
+
+screenshots 
+
 
   <img width="1020" height="1352" alt="001" src="https://github.com/user-attachments/assets/b5b8726e-f821-4dde-ab6d-23a0dd7186e1" />
 
