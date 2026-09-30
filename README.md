@@ -1,6 +1,14 @@
 # student-marks-and-grading-system
-A Python based Student Marks and Grading System developed as a Python Essential project 
- Student Marks & Grading System A simple Python-based console application to manage student marks and academic results. Student Details • Name: Keshav Chavra • Registration No.: 26MIM10251 • Course: Python Essential • Program: Integrated M.Tech – Artificial Intelligence • Year: 1st Year • College: VIT Bhopal University
+
+A simple Python-based console application to manage student marks and academic results.
+
+Student Details 
+• Name:                  Keshav Chavra
+• Registration No.:      26MIM10251
+• Course:                Python Essential
+• Program:               Integrated M.Tech – Artificial Intelligence
+• Year:                  1st Year
+• College:               VIT Bhopal University
  1. ## Overview of the Project
 The Student Marks & Grading System is a simple Python-based console application developed to manage student marks and academic results. The program allows the user to enter a student's name, roll number, and marks in five subjects — Maths, English, Hindi, Physics, and Chemistry. It automatically calculates the total marks and percentage, assigns a grade, and determines the student's PASS/FAIL status. In addition to result calculation, the system provides basic student record management operations such as add, display, search, update, delete, and class summary. The project is designed as a beginner-friendly Python application and was developed and tested in Google Colab.
 
